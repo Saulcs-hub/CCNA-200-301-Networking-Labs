@@ -1,16 +1,17 @@
-## Lab Evidence
 
-### IP Configuration
-![IP Configuration](evidence/02-ip-configuration.png)
+# Lab 01 — Network Evidence
 
-### Successful ICMP Ping
-![Ping Test](evidence/03-ping-test.png)
+## IP Configuration
+![IP Configuration](02.asiganacion_IP_Lab.png)
 
-### MAC Address Table
-![MAC Address Table](evidence/04-mac-address-table.png)
+## Successful ICMP Ping
+![Ping Test](03.Ping_Lab.png)
 
-### Ethernet Simulation
-![Ethernet Simulation](evidence/05-ethernet-simulation.png)
+## MAC Address Table
+![MAC Address Table](04-Tabla_MAC.png)
 
-### Switch Interface Status
-![Switch Interfaces](evidence/06-interface-status.png)
+## Ethernet Simulation
+![Ethernet Simulation](05-Simulation_Mode.png)
+
+## MAC Address Details
+![MAC Address Details](06-Detalles_MAC.png)
